@@ -7,5 +7,5 @@ Alaska
 Ohio
 Wisconsin
 California
-Newyork
-
+New York
+Washington DC
